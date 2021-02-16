@@ -17,7 +17,7 @@ const data = await fetch('https://age-of-empires-2-api.herokuapp.com/api/v1/civi
     }
     return ( 
         <div>
-        <h1>Nosotros</h1>
+        <h1>Nosotros 1</h1>
         <ul>
             {
             equipo.map(item =>(
